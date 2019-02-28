@@ -1,5 +1,7 @@
 # VBScript for adding Japan new Holidays to Outlook
 
+[日本語版 README はこちら](https://github.com/Microsoft/AddOutlookJapanHolidy/tree/master/ja-jp)
+
 Starting from 2019, there are some additions/changes to Public Holidays in Japan.  
 
 Mainstream support products such as Outlook 2016 / 2019 and Office 365 ProPlus will get this update through Office update. Extended support products such as Outlook 2013 and other legacy versions are excluded from this update, however, we have prepared a script 'AddHolidays.vbs' for Outlook 2010 / 2013 users.

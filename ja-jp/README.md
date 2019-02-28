@@ -1,4 +1,4 @@
-# VBScript for adding Japan new holidays to Outlook
+# VBScript for adding Japan new Holidays to Outlook
 
 2019 年以降、日本の祝日に追加や変更があります。
 
