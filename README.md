@@ -1,6 +1,6 @@
 # VBScript for adding Japan new Holidays to Outlook
 
-[日本語版 README はこちら](https://github.com/Microsoft/AddOutlookJapanHolidy/tree/master/ja-jp)
+[日本語版 README はこちら](https://github.com/Microsoft/AddOutlookJapanHoliday/tree/master/ja-jp)
 
 Starting from 2019, there are some additions/changes to Public Holidays in Japan.  
 
@@ -10,13 +10,13 @@ This script will only add new Holidays that are not yet added to the default cal
 
 ## How to use
 
-1. [Download AddHolidays.zip](https://github.com/Microsoft/AddOutlookJapanHolidy/releases) and extract it.
+1. [Download AddHolidays.zip](https://github.com/Microsoft/AddOutlookJapanHoliday/releases) and extract it.
 2. Double-click on 'AddHolidays.vbs' on a machine running Outlook 2010 / 2013.
 3. Open Outlook to confirm Holidays are successfully updated.
 
 ## Feedback
 
-If you have any feedback, please post on the [Issues](https://github.com/Microsoft/AddOutlookJapanHolidy/issues) list.
+If you have any feedback, please post on the [Issues](https://github.com/Microsoft/AddOutlookJapanHoliday/issues) list.
 
 ## Contributing
 

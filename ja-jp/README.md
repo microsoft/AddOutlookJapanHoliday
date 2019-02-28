@@ -11,12 +11,12 @@
 
 ## 実行方法
 
-1. [AddHolidays.zip をダウンロード](https://github.com/Microsoft/AddOutlookJapanHolidy/releases)し、展開します。
+1. [AddHolidays.zip をダウンロード](https://github.com/Microsoft/AddOutlookJapanHoliday/releases)し、展開します。
 2. 新しい祝日を追加したい Outlook 2010 / 2013 の環境で、AddHolidays.vbs をダブルクリックします。
 3. Outlook を起動して新しい祝日が追加されたことを確認します。
 
 ## フィードバック
 
-スクリプトに関するフィードバックは [Issues](https://github.com/Microsoft/AddOutlookJapanHolidy/issues) に投稿してください。日本語でも構いません。
+スクリプトに関するフィードバックは [Issues](https://github.com/Microsoft/AddOutlookJapanHoliday/issues) に投稿してください。日本語でも構いません。
 
-本プロジェクトへの参加に関しては、[英語版 README の Contributing セクション](https://github.com/Microsoft/AddOutlookJapanHolidy#contributing)をご参照ください。
+本プロジェクトへの参加に関しては、[英語版 README の Contributing セクション](https://github.com/Microsoft/AddOutlookJapanHoliday#contributing)をご参照ください。
