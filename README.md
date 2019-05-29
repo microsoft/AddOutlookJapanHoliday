@@ -10,8 +10,8 @@ This script will only add new Holidays that are not yet added to the default cal
 
 ## How to use
 
-1. [Download AddHolidays.zip](https://github.com/Microsoft/AddOutlookJapanHoliday/releases) and extract it.
-2. Double-click on 'AddHolidays.vbs' on a machine running Outlook 2010 / 2013.
+1. Download [AddHolidays.zip](https://github.com/Microsoft/AddOutlookJapanHoliday/releases) and extract it. If you are using Outlook in English and the names of Holidays are English, download AddHolidays_en.zip.
+2. Double-click on 'AddHolidays.vbs' (or 'AddHolidays_en.vbs') on a machine running Outlook 2010 / 2013.
 3. Open Outlook to confirm Holidays are successfully updated.
 
 ## Feedback
