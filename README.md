@@ -4,15 +4,16 @@
 
 Starting from 2019, there are some additions/changes to Public Holidays in Japan.  
 
-Mainstream support products such as Outlook 2016 / 2019 and Office 365 ProPlus will get this update through Office update. Extended support products such as Outlook 2013 and other legacy versions are excluded from this update, however, we have prepared a script 'AddHolidays.vbs' for Outlook 2010 / 2013 users.
+However, no updates have been released for the extended support phase products and Outlook for some update channels.  
+We made a script 'AddHolidays.vbs' to add new holidays, so please consider using it.
 
-This script will only add new Holidays that are not yet added to the default calendar. If Holidays already exist in the calendar, then the script will not make any changes. This is to prevent creating redundant items.
+This script will add holidays in 2021~ to your Outlook default calendar. This script will add only new holidays that does not exist in the calendar. So you can run this script whenever holidays already exist or not.
 
 ## How to use
 
-1. Download [AddHolidays.zip](https://github.com/Microsoft/AddOutlookJapanHoliday/releases) and extract it. If you are using Outlook in English and the names of Holidays are English, download AddHolidays_en.zip.
-2. Double-click on 'AddHolidays.vbs' (or 'AddHolidays_en.vbs') on a machine running Outlook 2010 / 2013.
-3. Open Outlook to confirm Holidays are successfully updated.
+1. Download [AddHolidays.zip](https://github.com/Microsoft/AddOutlookJapanHoliday/releases) and extract it. If you are using Outlook in English and the names of holidays are English, download AddHolidays_en.zip.
+2. Double-click on 'AddHolidays.vbs' (or 'AddHolidays_en.vbs') on a machine running Outlook.
+3. Open Outlook and confirm holidays are successfully updated.
 
 ## Feedback
 
