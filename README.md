@@ -1,8 +1,8 @@
-# VBScript adding Japan new Holidays to Outlook
+# VBScript for adding Japan's new Holidays to Outlook
 
 [日本語版 README はこちら](https://github.com/Microsoft/AddOutlookJapanHoliday/tree/master/ja-jp)
 
-Starting from 2019, there are some additions/changes to Public Holidays in Japan.  
+Starting from 2019, there were some additions/changes to Public Holidays in Japan.  
 
 However, no updates have been released for the extended support phase products and Outlook for some update channels.  
 We made a script 'AddHolidays.vbs' to add new holidays, so please consider using it.
