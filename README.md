@@ -1,4 +1,4 @@
-# VBScript for adding Japan new Holidays to Outlook
+# VBScript adding Japan new Holidays to Outlook
 
 [日本語版 README はこちら](https://github.com/Microsoft/AddOutlookJapanHoliday/tree/master/ja-jp)
 
