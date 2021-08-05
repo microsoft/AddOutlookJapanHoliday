@@ -66,7 +66,7 @@ If rslt = 6 then
             AddHappyMondays iYear, arrHappyMon2022
         End If
 
-        ' Irregular holiday
+        ' Irregular Holiday
         AddOneHoliday "Vernal Equinox Day", iYear & "/3/" & arrAEquinox(iYear - 2021)
         AddOneHoliday "Autumnal Equinox Day", iYear & "/9/" & arrVEquinox(iYear - 2021)
 
@@ -99,7 +99,7 @@ Sub AddNormalHolidays( iYear, arrHolidays )
     Next
 End Sub
 
-' Add happpy Monday
+' Add Happpy Monday
 Sub AddHappyMondays( iYear, arrHappyMon )
     Dim i
     Dim arrRec
