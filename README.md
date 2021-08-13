@@ -1,13 +1,13 @@
-# VBScript for adding Japan new Holidays to Outlook
+# VBScript for adding Japan's new Holidays to Outlook
 
 [日本語版 README はこちら](https://github.com/Microsoft/AddOutlookJapanHoliday/tree/master/ja-jp)
 
-Starting from 2019, there are some additions/changes to Public Holidays in Japan.  
+Starting from 2019, there were some additions/changes to Public Holidays in Japan.  
 
 However, no updates have been released for the extended support phase products and Outlook for some update channels.  
 We made a script 'AddHolidays.vbs' to add new holidays, so please consider using it.
 
-This script will add holidays in 2021~ to your Outlook default calendar. This script will add only new holidays that does not exist in the calendar. So you can run this script whenever holidays already exist or not.
+This script will add holidays in 2021~ to your Outlook default calendar. This script will add only new holidays that do not exist in the calendar. So you can run this script whenever holidays already exist or not.
 
 ## How to use
 
@@ -17,7 +17,7 @@ This script will add holidays in 2021~ to your Outlook default calendar. This sc
 
 ## Feedback
 
-If you have any feedback, please post on the [Issues](https://github.com/Microsoft/AddOutlookJapanHoliday/issues) list.
+If you have any feedback, please post feedback in the [Issues](https://github.com/Microsoft/AddOutlookJapanHoliday/issues) list.
 
 ## Contributing
 
