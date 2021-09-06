@@ -80,7 +80,7 @@ If rslt = 6 then
 
     ' Sandwiched between Respect for the Aged Day and Autumnal Equinox Day
     AddOneHoliday "People's Day", "2026/9/22"
-    MsgBox "Finish add holiday!!"
+    MsgBox "Finished adding Holidays."
 End If
 
 ' Add regular holiday
@@ -99,7 +99,7 @@ Sub AddNormalHolidays( iYear, arrHolidays )
     Next
 End Sub
 
-' Add Happpy Monday
+' Add Happy Monday
 Sub AddHappyMondays( iYear, arrHappyMon )
     Dim i
     Dim arrRec
