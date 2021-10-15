@@ -12,9 +12,9 @@ Dim nmSession
 Dim fldCalendar
 
 'Year 2021
-Dim arrNormal21 : arrNormal21 = Array("New Year's Day,1,1","National Foundation Day,2,11","Emperor's Birthday,2,23","Shōwa Day,4,29","Constitution Day,5,3","Greenery Day,5,4","Children's Day,5,5","Marine Day,7,19,7,22","Sports Day,10,11,7,23","Mountain Day,8,11,8,8","Culture Day,11,3","Labor Thanksgiving Day,11,23","New Year's Eve,12,31")
+Dim arrNormal21 : arrNormal21 = Array("New Years Day,1,1","National Foundation Day,2,11","Emperor's Birthday,2,23","Shōwa Day,4,29","Constitution Day,5,3","Greenery Day,5,4","Children's Day,5,5","Marine Day,7,19,7,22","Sports Day,10,11,7,23","Mountain Day,8,11,8,8","Culture Day,11,3","Labor Thanksgiving Day,11,23","New Years Eve,12,31")
 'Year 2022
-Dim arrNormal22 : arrNormal22 = Array("New Year's Day,1,1","National Foundation Day,2,11","Emperor's Birthday,2,23","Shōwa Day,4,29","Constitution Day,5,3","Greenery Day,5,4","Children's Day,5,5","Mountain Day,8,11","Culture Day,11,3","Labor Thanksgiving Day,11,23","New Year's Eve,12,31")
+Dim arrNormal22 : arrNormal22 = Array("New Years Day,1,1","National Foundation Day,2,11","Emperor's Birthday,2,23","Shōwa Day,4,29","Constitution Day,5,3","Greenery Day,5,4","Children's Day,5,5","Mountain Day,8,11","Culture Day,11,3","Labor Thanksgiving Day,11,23","New Years Eve,12,31")
 
 Dim arrHappyMon2021 : arrHappyMon2021 = Array("Coming of Age Day,1,2","Respect for the Aged Day,9,3")
 Dim arrHappyMon2022: arrHappyMon2022 = Array("Coming of Age Day,1,2","Marine Day,7,3","Respect for the Aged Day,9,3","Sports Day,10,2")
@@ -24,7 +24,7 @@ Dim arrAEquinox : arrAEquinox = Array(20,21,21,20,20,20,21,20,20,20)
 'Autumnal Equinox Day
 Dim arrVEquinox : arrVEquinox = Array(23,23,23,22,23,23,23,22,23,23)
 'Observed
-Dim arrSubHoliday : arrSubHoliday = Array("Mountain Day,2021/8/9","New Year's Day,2023/1/2","National Foundation Day,2024/2/12","Children's Day,2024/5/6","Mountain Day,2024/8/12","Autumnal Equinox Day,2024/9/23","Emperor's Birthday,2025/2/24","Greenery Day,2025/5/6","Labor Thanksgiving Day,2025/11/24","Children's Day,2026/5/6","Vernal Equinox Day,2027/3/22","National Foundation Day,2029/2/12","Shōwa Day,2029/4/30","Autumnal Equinox Day,2029/9/24","Children's Day,2030/5/6","Mountain Day,2030/8/12","Culture Day,2030/11/4")
+Dim arrSubHoliday : arrSubHoliday = Array("Mountain Day,2021/8/9","New Years Day,2023/1/2","National Foundation Day,2024/2/12","Children's Day,2024/5/6","Mountain Day,2024/8/12","Autumnal Equinox Day,2024/9/23","Emperor's Birthday,2025/2/24","Greenery Day,2025/5/6","Labor Thanksgiving Day,2025/11/24","Children's Day,2026/5/6","Vernal Equinox Day,2027/3/22","National Foundation Day,2029/2/12","Shōwa Day,2029/4/30","Autumnal Equinox Day,2029/9/24","Children's Day,2030/5/6","Mountain Day,2030/8/12","Culture Day,2030/11/4")
 
 Dim rslt
 rslt = MsgBox("Add holiday?", 68)
